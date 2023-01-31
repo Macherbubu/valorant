@@ -35,7 +35,11 @@ Manual and autoscan
 # [How to use Valorant Hacks Free?]
 To use this Valorant hack for free.
 
+
 Close Riot Games Launcher.
+
 Open Valorant_Setup.exe.
+
 Open Riot Games Launcher and launch Valorant.
+
 Enjoy
