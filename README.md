@@ -1,2 +1,6 @@
-# valorante
-Valorant ESP,AIMBOT [V2.6]
+# Aimbot
+Recoil Control System
+Adjustable smooth
+Adjustable fov
+Vischeck
+Aimbone
