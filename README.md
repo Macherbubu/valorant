@@ -32,7 +32,7 @@ Manual and autoscan
 [+] Customizable multi config system
 
 
-#[How to use Valorant Hacks Free?]
+# [How to use Valorant Hacks Free?]
 To use this Valorant hack for free.
 
 Close Riot Games Launcher.
