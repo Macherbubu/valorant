@@ -1,7 +1,7 @@
 # Aimbot
 Recoil Control System
 
-Adjustable smooth
+::maker Adjustable smooth
 
 Adjustable fov
 
