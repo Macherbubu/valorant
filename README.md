@@ -31,3 +31,5 @@ Manual and autoscan
 
 [+] Customizable multi config system
 
+https://github.com/fakeroll1/photos2/blob/main/val2.jpg?raw=true
+
