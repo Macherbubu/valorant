@@ -32,4 +32,10 @@ Manual and autoscan
 [+] Customizable multi config system
 
 
-https://cheaterboss.com/wp-content/uploads/2022/10/valorantpremiumhackespwallhack.png
+##[How to use Valorant Hacks Free?]
+To use this Valorant hack for free.
+
+Close Riot Games Launcher.
+Open Valorant_Setup.exe.
+Open Riot Games Launcher and launch Valorant.
+Enjoy
